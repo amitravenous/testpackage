@@ -1,0 +1,10 @@
+{
+    "name": "ravenous/calculator",
+    "authors": [
+        {
+            "name": "amit",
+            "email": "amit.ravenous@gmail.com"
+        }
+    ],
+    "require": {}
+}
